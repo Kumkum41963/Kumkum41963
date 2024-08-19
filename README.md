@@ -8,37 +8,35 @@
 <h3 align="center">Passionate Full Stack Developer | MERN Stack Enthusiast</h3>
 
 <!-- Content Wrapper -->
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: flex-start; justify-content: flex-start;">
 
-<!-- Left Column (Profile Views, Twitter, Info) -->
-<div style="flex: 1;">
+  <!-- Left Column (Profile Views, Twitter, Info) -->
+  <div style="width: 60%;">
 
-<!-- Profile Views -->
-<p align="left">
+  <!-- Profile Views -->
+  <p align="left">
     <img src="https://komarev.com/ghpvc/?username=kumkum41963&label=Profile%20views&color=0e75b6&style=flat" alt="kumkum41963" />
-</p>
+  </p>
 
-<!-- Twitter Badge -->
-<p align="left">
+  <!-- Twitter Badge -->
+  <p align="left">
     <a href="https://twitter.com/kumkum_41963" target="blank">
         <img src="https://img.shields.io/twitter/follow/kumkum_41963?logo=twitter&style=for-the-badge" alt="kumkum_41963" />
     </a>
-</p>
+  </p>
 
-<!-- Information Section -->
-<p align="left">
+  <!-- Information Section -->
+  <p align="left">
       - 🌱 I’m currently learning **MERN Stack**<br />
       - 📫 How to reach me **kumkum19305@gmail.com**<br />
       - ⚡ Fun fact **Balancing tech with anime and fitness**
-</p>
-    
-</div>
+  </p>
+
+  </div>
 
   <!-- Right Column (Animated GIF) -->
-  <div style="flex: 0.4;">
-    <p align="right">
-      <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="Animated GIF" width="200" height="200" />
-    </p>
+  <div style="width: 40%; text-align: right;">
+    <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="Animated GIF" width="400" height="200" />
   </div>
 
 </div>
