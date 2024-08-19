@@ -37,7 +37,7 @@
   <!-- Right Column (Animated GIF) -->
   <div style="flex: 0.4;">
     <p align="right">
-      <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="Animated GIF" width="400" height="200" />
+      <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="Animated GIF" width="200" height="200" />
     </p>
   </div>
 
