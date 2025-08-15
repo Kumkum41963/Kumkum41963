@@ -5,7 +5,7 @@
 
 <!-- Title and Subtitle -->
 <h1 align="center">Hi 👋, I'm Kumkum</h1>
-<h3 align="center">Passionate Full Stack Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Passionate Full Stack Developer || MERN Stack Enthusiast</h3>
 
 <!-- Content Wrapper -->
 <div style="display: flex; align-items: flex-start; justify-content: flex-start;">
@@ -18,19 +18,13 @@
     <img src="https://komarev.com/ghpvc/?username=kumkum41963&label=Profile%20views&color=0e75b6&style=flat" alt="kumkum41963" />
   </p>
 
-  <!-- Twitter Badge -->
-  <p align="left">
-    <a href="https://twitter.com/kumkum_41963" target="blank">
-        <img src="https://img.shields.io/twitter/follow/kumkum_41963?logo=twitter&style=for-the-badge" alt="kumkum_41963" />
-    </a>
-  </p>
-
   <!-- Information Section -->
-  <p align="left">
-      - 🌱 I’m currently learning **MERN Stack**<br />
-      - 📫 How to reach me **kumkum19305@gmail.com**<br />
-      - ⚡ Fun fact **Balancing tech with anime and fitness**
-  </p>
+ <p align="left">
+  -I’m currently learning <strong> MERN </strong> Stack<br />
+  -You can reach me at <a href="mailto:kumkum19305@gmail.com">kumkum19305@gmail.com</a><br />
+  -<strong>Fun fact:</strong> Balancing tech with anime, comics, and fitness
+</p>
+
 
   </div>
 
@@ -58,7 +52,7 @@
 
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;"> 
   <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -77,7 +71,7 @@
   </a> 
   <!-- Express -->
  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" style="width: 40px; height: 40px;" />
+  <img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" alt="express" width="40" height="40"/>
 </a>
   <!-- MongoDb -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
@@ -103,23 +97,12 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <!-- Bootstrap -->
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="width: 40px; height: 40px;" />
-</a>
 </p>
 
+
 <!-- GitHub Stats -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumkum41963&show_icons=true&locale=en&layout=compact" alt="kumkum41963" style="flex: 1 1 350px; max-width: 48%; height: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kumkum41963&show_icons=true&locale=en" alt="kumkum41963" style="flex: 1 1 350px; max-width: 48%; height: auto;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumkum41963&" alt="kumkum41963" style="flex: 1 1 350px; max-width: 48%; height: auto;" />
+<div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumkum41963&show_icons=true&locale=en&layout=compact" alt="kumkum41963" style="width: 300px; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kumkum41963&show_icons=true&locale=en" alt="kumkum41963" style="width: 300px; height: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumkum41963&" alt="kumkum41963" style="width: 300px; height: auto;" />
 </div>
-
-
-
-
